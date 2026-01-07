@@ -1,5 +1,5 @@
 <!-- ===================== Banner ===================== -->
-![Banner](https://images.unsplash.com/photo-1522199710521-72d69614c702?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://i.ibb.co.com/xt83gh9Q/github-Banner.png)
 
 # Hi there 👋, I'm Md Sydur Rahaman
 **Junior Instructor | Frontend Web Developer | React & JavaScript**
