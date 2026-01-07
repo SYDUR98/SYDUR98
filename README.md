@@ -1,5 +1,6 @@
 <!-- ===================== Banner ===================== -->
-![Banner](https://i.ibb.co.com/xt83gh9Q/github-Banner.png)
+![Banner](https://i.ibb.co/xt83gh9Q/github-Banner.png)
+
 
 # Hi there 👋, I'm Md Sydur Rahaman
 **Junior Instructor | Frontend Web Developer | React & JavaScript**
