@@ -1,5 +1,5 @@
 <!-- ===================== Banner ===================== -->
-![Banner](https://i.ibb.co./MyKnMYf2/banner.png)
+![Banner](https://i.ibb.co/MyKnMYf2/banner.png)
 
 
 
