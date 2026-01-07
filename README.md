@@ -54,35 +54,44 @@ Sylhet, Bangladesh
 
 ## 📌 Pinned Projects
 
-### 1. ClubSphere – Membership & Event Management
-**Live Frontend:** [ClubSphere](https://club-sphere-app.web.app/)  
-**GitHub Client:** [Repository](https://github.com/SYDUR98/clubsphere-client)  
-**GitHub Server:** [Repository](https://github.com/SYDUR98/clubsphere-server)  
+### 🚀 ClubSphere – Membership & Event Management System
+A full-stack MERN application designed to manage club memberships, events, and role-based user experiences.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Stripe  
+🔗 **Live Frontend:** https://club-sphere-app.web.app/  
+🖥️ **GitHub Client:** https://github.com/SYDUR98/clubsphere-client  
+🗄️ **GitHub Server:** https://github.com/SYDUR98/clubsphere-server  
 
-**Features:**  
-- Role-based access: Admin, Manager, Member  
-- Event & Membership management  
-- Stripe payment integration  
-- Real-time UI updates & notifications  
+**🛠 Technologies Used:**  
+React.js, Node.js, Express.js, MongoDB, Firebase Authentication, Tailwind CSS, Stripe API  
+
+**✨ Core Features:**  
+- Role-based access control (Admin, Club Manager, Member)  
+- Club, event, and membership management system  
+- Secure Stripe payment integration for memberships  
+- Real-time UI updates with notifications  
+- Responsive and modern UI design  
+
+---
+
+### 🚗 RentWheels – Online Car Rental Platform
+A MERN-based web application that allows users to rent cars online and enables providers to manage vehicle listings and bookings.
+
+🔗 **Live Frontend:** https://rent-wheels-app.web.app/  
+🖥️ **GitHub Client:** https://github.com/SYDUR98/rent-wheels-client  
+🗄️ **GitHub Server:** https://github.com/SYDUR98/Rent-Wheels-server  
+
+**🛠 Technologies Used:**  
+React.js, Node.js, Express.js, MongoDB, Firebase Authentication, Tailwind CSS  
+
+**✨ Core Features:**  
+- Browse and search available cars  
+- Secure authentication (Email & Google sign-in)  
+- Provider dashboard with full CRUD operations  
+- Car booking system with real-time status updates  
+- Mobile-friendly and responsive UI  
 
 ---
 
-### 2. RentWheels – Car Rental Platform
-**Live Frontend:** [RentWheels](https://rent-wheels-app.web.app/)  
-**GitHub Client:** [Repository](https://github.com/SYDUR98/rent-wheels-client)  
-**GitHub Server:** [Repository](https://github.com/SYDUR98/Rent-Wheels-server)  
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
-
-**Features:**  
-- Browse & search cars  
-- Secure authentication (Email/Google)  
-- Provider dashboard for CRUD operations  
-- Booking system with real-time updates  
-
----
 
 ## 🏆 Achievements / Activities
 - President, Programming Club, Sylhet Polytechnic Institute  
