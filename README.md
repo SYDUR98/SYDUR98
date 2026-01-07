@@ -80,9 +80,6 @@ Sylhet, Bangladesh
 
 ---
 
-
----
-
 ## 🏆 Achievements / Activities
 - President, Programming Club, Sylhet Polytechnic Institute  
 - Guiding students in client-side projects  
