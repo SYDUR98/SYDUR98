@@ -80,15 +80,6 @@ Sylhet, Bangladesh
 
 ---
 
-### 3. [Add Your Third Project Here]
-**Live Link:** [Your Live Project URL]  
-**GitHub Repository:** [Repo Link]  
-
-**Technologies:** [Tech Stack]  
-**Features:**  
-- Feature 1  
-- Feature 2  
-- Feature 3  
 
 ---
 
