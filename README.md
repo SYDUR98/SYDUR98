@@ -24,10 +24,11 @@ I love building responsive and user-friendly web applications.
 ## 💻 Skills
 
 ### Programming Languages
-✅ JavaScript | HTML5 | CSS3 | Python | Java  
+✅ JavaScript | HTML5 | CSS3 | Python
 
 ### Frameworks / Libraries
-✅ React.js | Tailwind CSS | Bootstrap | Django | Tkinter  
+✅ React.js | Node.js | Express.js | Tailwind CSS | Bootstrap
+
 
 ### Tools & Technologies
 ✅ Git | Firebase | MongoDB | Node.js | Express.js | Stripe | Chart.js  
